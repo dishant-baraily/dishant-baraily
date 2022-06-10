@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dishant Baraily</h1>
 <h3 align="center">A passionate Full-Stack Web Developer specializing in MERN stack.</h3>
-<img align="center" src="https://i.pinimg.com/564x/8a/f5/f2/8af5f2c18065a170609d1f2fe3b027d6.jpg" alt="dishant baraily" height="903" width="508" />
+<img align="center" src="https://i.pinimg.com/564x/9f/85/0a/9f850aaeba4288a615793c6045360cea.jpg" alt="dishant baraily" height="285" width="508" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishant-baraily&label=Profile%20views&color=0e75b6&style=flat" alt="dishant-baraily" /> </p>
 
