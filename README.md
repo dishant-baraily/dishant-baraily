@@ -7,7 +7,7 @@
 
 - Project-1 clone of Be-Bodywise [Be-Bodywise Clone](https://bebodywise.com/)
 
-- Project-1 clone of Apollo 24x7 [Apollo 24x7 Clone](https://nervous-swanson-7cdb5d.netlify.app/)
+- Project-2 clone of Apollo 24x7 [Apollo 24x7 Clone](https://nervous-swanson-7cdb5d.netlify.app/)
 
 - 💼 My portfolio [https://dishant-baraily-portfolio.vercel.app/](https://dishant-baraily-portfolio.vercel.app/)
 
