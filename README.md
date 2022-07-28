@@ -9,6 +9,8 @@
 
 - Project-2 clone of Apollo 24x7 [Apollo 24x7 Clone](https://nervous-swanson-7cdb5d.netlify.app/)
 
+- Project-2 clone of Apollo 24x7 [Sephora Clone](https://sephora-clone-psi.vercel.app/)
+
 - 💼 My portfolio [https://dishant-baraily-portfolio.vercel.app/](https://dishant-baraily-portfolio.vercel.app/)
 
 - 📫 How to reach me **dishantbaraily@gmail.com**
