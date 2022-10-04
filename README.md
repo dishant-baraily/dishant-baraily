@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishant-baraily" alt="dishant-baraily" /></a> </p>
 
-- Project-1 clone of Be-Bodywise [Be-Bodywise Clone](https://bebodywise.com/)
+- Project-1 clone of Be-Bodywise [Be-Bodywise Clone](https://bebodywisediversityclone.netlify.app/)
 
 - Project-2 clone of Apollo 24x7 [Apollo 24x7 Clone](https://nervous-swanson-7cdb5d.netlify.app/)
 
